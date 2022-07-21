@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Meeting App</string>
     <string name="welcome_to">Welcome to</string>
-    <string name="video_meeting_conference_app">Video Meeting | Conference App</string>
-    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="video_meeting_conference_app">My App</string>
+    <string name="sign_in_to_your_account">Log In</string>
     <string name="email">Email</string>
     <string name="your_example_com">your@example.com</string>
     <string name="password">Password</string>
